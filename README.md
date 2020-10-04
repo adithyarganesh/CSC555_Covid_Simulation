@@ -7,7 +7,7 @@ All the code was run from a NC State Macbook Air using the python version 3.8.
 The code to simulate a pandemic with 3 scenarios been implemented.
 
 # Implementation
-The code is implemented in a single notebook called Covid_Simulator.py. 
+The code is implemented in a single notebook called Covid_Simulator.ipynb. 
 The notebook file that shows complete information of the tasks that have been run.
 
 # Results
